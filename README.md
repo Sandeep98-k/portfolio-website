@@ -4,12 +4,13 @@
 
 ## 🚀 Skills
 - Python
-- Excel (Dashboards, Pivot Tables)
+- Excel & Power BI (Dashboards, Pivot Tables)
 - SQL (MySQL)
 - Data Visualization
 
 ## 📂 Projects
 - 📊 Zepto Sales Data Analysis Dashboard
+- Telangana-Budget-Dashboard
 - 🚆 Railway Ticket Collection System
 - 📈 Excel Business Reports
 

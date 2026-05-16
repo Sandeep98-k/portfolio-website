@@ -11,11 +11,13 @@
 ## 📂 Projects
 - 📊 Zepto Sales Data Analysis Dashboard
 - Telangana-Budget-Dashboard
-- 🚆 Railway Ticket Collection System
-- 📈 Excel Business Reports
+- 🚆 Railway booking
+- security -system
+- college-chartbot
 
 ## 📫 Contact
-- LinkedIn: (add your link)
-- Email: (optional)
+- LinkedIn: (https://www.linkedin.com/in/kasa-sandeep-patel-57b5ab210)
+- Email: (kasasandeeppatel@gmail.com)
+- Mobile No. :(9848429954)
 
 ⭐ Check out my repositories below!

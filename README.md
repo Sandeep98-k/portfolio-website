@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋 I'm Sandeep Kasa<br><br>🎓 Student | 📊 Data Analysis | 🐍 Python | 🧮 Excel | 🗄 SQL  <br><br>## 🚀 Skills<br>- Python<br>- Excel & Power BI (Dashboards, Pivot Tables)<br>- SQL (MySQL)<br>- Data Visualization<br><br>## 📂 Projects<br>- 📊 Zepto Sales Data Analysis Dashboard<br>- Telangana-Budget-Dashboard<br>- 🚆 Railway booking<br>- security -system<br>- college-chartbot<br><br>## 📫 Contact<br>- LinkedIn: (https://www.linkedin.com/in/kasa-sandeep-patel-57b5ab210)<br>- Email: (kasasandeeppatel@gmail.com)<br>- Mobile No. :(9848429954)<br><br>⭐ Check out my repositories below!<br>
+# Hi 👋 I'm Sandeep Kasa<br><br>🎓 Student | 📊 Data Analysis | 🐍 Python |Java| 🧮 Excel | 🗄 SQL  <br><br>## 🚀 Skills<br>- Python<br>- Excel & Power BI (Dashboards, Pivot Tables)<br>- SQL (MySQL)<br>- Data Visualization<br><br>## 📂 Projects<br>- 📊 Zepto Sales Data Analysis Dashboard<br>- Telangana-Budget-Dashboard<br>- 🚆 Railway booking<br>- security -system<br>- college-chartbot<br><br>## 📫 Contact<br>- LinkedIn: (https://www.linkedin.com/in/kasa-sandeep-patel-57b5ab210)<br>- Email: (kasasandeeppatel@gmail.com)<br>- Mobile No. :(9848429954)<br><br>⭐ Check out my repositories below!<br>
 
 
 ## 🌐 Socials:
